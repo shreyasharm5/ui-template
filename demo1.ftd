@@ -116,7 +116,7 @@ role: $inherited.types.copy-regular
 
 
 
-;; record variable : https://fastn.com/common-attributes/#background-image-ftd-background-image
+\;; record variable : https://fastn.com/common-attributes/#background-image-ftd-background-image
 
 
 -- ftd.background-image bg-image:

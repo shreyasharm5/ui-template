@@ -14,8 +14,4 @@ favicon: /-/gargajit.github.io/ui-template/favicon.ico
 -- fastn.auto-import: doc-site
 -- fastn.auto-import: dms
 
--- fastn.sitemap:
 
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
