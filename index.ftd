@@ -1,9 +1,74 @@
--- ds.page: Activity 1 - Property values
+-- ds.page: Activity 2 - Property values
 
 
 
+-- ds.code: 
+
+caption title:
+optional ftd.image-src dp:
+optional body body:
+ftd.color border-color: black
 
 
+-- ds.code: 
+
+width.fixed.px: 341 
+height.fixed.px: 241
+padding-bottom.px: 10
+align-content: center
+
+-- end: ds.code
+
+
+
+-- ds.code: 
+
+width.fixed.px: 118 
+height.fixed.px: 118
+border-radius.px: 60
+margin-bottom.px: 20
+border-color: $player.border-color
+border-width.px: 5
+
+-- end: ds.code
+
+
+-- ds.code: 
+
+role: $inherited.types.heading-large
+color: white
+
+-- end: ds.code
+
+
+-- ds.code: 
+
+width.fixed.px: 832
+height.fixed.px: 740
+align-content: center
+
+-- end: ds.code
+
+
+
+-- ds.code: 
+
+spacing.fixed.px: 10
+margin-top.px: 60
+width: fill-container
+
+-- end: ds.code
+
+
+-- ds.code: 
+
+\-- ftd.background-image bg-image:
+src: $assets.files.assets.unsplash.jpg
+repeat: no-repeat
+position: center
+size: cover
+
+-- end: ds.code
 
 
 -- end: ds.page
